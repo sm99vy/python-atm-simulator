@@ -27,7 +27,7 @@ Um simulador de caixa eletrônico desenvolvido em Python como exercício prátic
 3. Execute o arquivo pelo terminal:
 
 ```bash
-python caixa_eletronico.py
+python atm-simulator.py
 ```
 
 ## Objetivo
